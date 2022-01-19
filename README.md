@@ -37,5 +37,5 @@
 
   | 날짜  | 작성자          | 발표 자료                                          |비고(참고링크)|   
   | ----- | ------ | -------------- | ---------------------------------------- |
-  | 22/01/05 | 민한       | [1. Pod이란 무엇인가요? ](https://minhan2.tistory.com/entry/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EC%9D%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%8C%80%ED%95%B4%EC%84%9C-%EB%81%84%EC%A0%81%EB%81%84%EC%A0%81)          | | 
+  | 22/01/05 | 민한       | [1. Pod이란 무엇인가요? ](https://minhan2.tistory.com/entry/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EC%9D%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%8C%80%ED%95%B4%EC%84%9C-%EB%81%84%EC%A0%81%EB%81%84%EC%A0%81)          |[1](https://kubernetes.io/ko/docs/tutorials/hello-minikube/)[2](https://docs.docker.com/storage/storagedriver/)[3](https://kubernetes.io/ko/docs/concepts/overview/what-is-kubernetes/)[4](https://www.44bits.io/ko/keyword/linux-namespace)[5](https://minikube.sigs.k8s.io/docs/start/)| 
 </pr>
